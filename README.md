@@ -2,7 +2,13 @@
 
 <img src="https://i.namu.wiki/i/n8-k9izfhbnCSk3HLNZ0tMLIeMO2f9O6zDoAEPHH6ApbSP0uzgopseJJIKCwtR5hOMX6v1CKcvHB-7XLwoHMwpEQhSSn6mZdvWX9lUGCFPJLa2wiQ8gKuImERXFMmAErRHAoV5PJt9o8CcyedF88BQ.webp" width="180">
 
-# 👋 Hello, I'm Kyungsu
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Kyungsu" alt="Typing SVG">
+
+</div>
+
+</div>
 
 ### AI / Machine Learning Developer
 
