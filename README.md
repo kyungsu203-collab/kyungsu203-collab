@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://i.namu.wiki/i/n8-k9izfhbnCSk3HLNZ0tMLIeMO2f9O6zDoAEPHH6ApbSP0uzgopseJJIKCwtR5hOMX6v1CKcvHB-7XLwoHMwpEQhSSn6mZdvWX9lUGCFPJLa2wiQ8gKuImERXFMmAErRHAoV5PJt9o8CcyedF88BQ.webp" width="180">
+
+</div>
+
 # 👋 Hello, I'm Kyungsu
 
 > **AI / Machine Learning Developer**
